@@ -1,6 +1,6 @@
 ## Welcome to GitHub for Dahmashi Group 👋
 
-🙋‍♀️ A short introduction - what is your organization all about?
+### 🙋‍♀️ A short introduction - what is your organization all about?
 
 Dahmashi Group of companies owns and operates various proprietary custom software for internal use, and also for public consumption. Our core Technology stack currently includes the following web-based products:
 
@@ -14,7 +14,7 @@ Dahmashi Group of companies owns and operates various proprietary custom softwar
 
 ## **Policies / Guidelines**
 
-🌈 Contribution guidelines - how can the Dahmashi community get involved?
+### 🌈 Contribution guidelines - how can the Dahmashi community get involved?
 
 - **Repository type**: Generally, create **private** repositories for `dahmashi` org, unless authorised by org owners / admins
 - **Gitignore**: Initially, commmit appropriate `.gitignore` file for GitHub repositories, either using Github built-in templates during GitHub repository creation or via online tools like [gitignore.io](https://gitignore.io) for your project stack
@@ -25,7 +25,7 @@ Dahmashi Group of companies owns and operates various proprietary custom softwar
 >
 > Best practice is to manage sensitive information in your GitHub organization, repository, or environments level as these are stored encrypted and have built-in access control for sensitive information
 
-👩‍💻 Useful resources - where can the Dahmashi community find your docs? Is there anything else the community should know?
+### 👩‍💻 Useful resources - where can the Dahmashi community find your docs? Is there anything else the community should know?
 
 Dahmashi Group of companies are [ISO9001:2015](https://www.iso.org/standard/62085.html) certified. As such, being both a vendor and producer of custom software solutions in our companies, our policies and guidelines are aligned with this certification. Any Dahmashi employee contributing to software design / development must follow our internal IT Policies to support ISO 9001.
 
@@ -36,4 +36,4 @@ Dahmashi Group of companies are [ISO9001:2015](https://www.iso.org/standard/6208
 
 1. [Git Version Control Policy](https://docs.google.com/document/d/1hIgS53W1F4jwTb99LNsM3UZjBXuY7jqtTxBttPj6_sg/edit?usp=sharing)
 
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+### 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
