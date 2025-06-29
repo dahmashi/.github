@@ -14,7 +14,7 @@ Dahmashi Group of companies owns and operates various proprietary custom softwar
 
 ## 🚩 **Policies / Guidelines**
 
-### 🌈 Contribution guidelines - how can the Dahmashi community get involved?
+### 🔥 Contribution guidelines - how can the Dahmashi community get involved?
 
 - **Repository type**: Generally, create **private** repositories for `dahmashi` org, unless authorised by org owners / admins
 - **Gitignore**: Initially, commmit appropriate `.gitignore` file for GitHub repositories, either using Github built-in templates during GitHub repository creation or via online tools like [gitignore.io](https://gitignore.io) for your project stack
