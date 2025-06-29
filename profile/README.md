@@ -1,6 +1,6 @@
-## Welcome to GitHub for Dahmashi Group 👋
+# Welcome to GitHub for Dahmashi Group 👋
 
-### 🙋‍♀️ A short introduction - what is your organization all about?
+## 🙋‍♀️ A short introduction - what is your organization all about?
 
 Dahmashi Group of companies owns and operates various proprietary custom software for internal use, and also for public consumption. Our core Technology stack currently includes the following web-based products:
 
@@ -10,9 +10,9 @@ Dahmashi Group of companies owns and operates various proprietary custom softwar
 | One-ERP   | Finance / Accounts ERP Software       | Private | [One ICT Limited](https://one-ict.com/)    | [private ip](http://192.168.2.107:4200)                                                                         |                                                                          | undocumented / incomplete / WIP                                                                                                       |
 | MMS       | Manpower Management System            | Public  | [3DEVs IT Ltd](https://3-devs.com/)        | [private ip](http://192.168.2.107:85) / [public ip](http://103.17.37.98:8002) / [url](https://mms.dahmashi.com) | clean UI / easy hosting on custom domain with some configuration updates | undocumented / buggy / poor login security / ongoing license fees?                                                                    |
 | [Jute-ERP](https://github.com/dahmashi/jute-erp)  | Internal Jute Industries ERP Software | Public  | [@zaman6g](mailto:zaman6g@gmail.com)       | [private ip](http://192.168.2.120:1213) / [public ip](http://103.17.37.98) / [url](https://jute.dahmashi.com)   |                                                                          | undocumented / features being added / unpolished & outdated UI / no easy hosting to custom domain without IIS / ongoing license fees? |
+| [Group Landing Page](https://github.com/dahmashi/landing-page-group) | Landing Page for Dahmashi Group | Public | [@imrancio](mailto:imran@imranc.io) | [cloudfront](https://daggmhsinbqiz.cloudfront.net/) / [url](https://www.dahmashigroup.com) | CloudFront CDN hosted / GitHub Actions [pipeline](https://github.com/dahmashi/landing-page-group/actions) for build / deploy / code can be modified via [Replit](https://replit.com/) AI prompts | AWS Cloud Bill |
 
-
-## **Policies / Guidelines**
+## 🚩 **Policies / Guidelines**
 
 ### 🌈 Contribution guidelines - how can the Dahmashi community get involved?
 
