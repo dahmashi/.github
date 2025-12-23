@@ -21,6 +21,12 @@ There are also auxiliary packages used for data analysis and reporting, related 
 | ---------------------------------------------- | --------------------------------- | ------- | ----------------------------------- |
 | [Win-Mon](https://github.com/dahmashi/win-mon) | Window Variable Monitoring System | Private | [@imrancio](mailto:imran@imranc.io) |
 
+And there are entire server configurations, like for dahmashi.com VPS, etc.
+
+| Name                                           | Description                       | Type    | Maintainer                          |
+| ---------------------------------------------- | --------------------------------- | ------- | ----------------------------------- |
+| [dahmashi.com](https://github.com/dahmashi/.com) | dahmashi.com VPS Docker Configuration | Private (w/ git-crypt encryption) | [@imrancio](mailto:imran@imranc.io) |
+
 ## 🚩 **Policies / Guidelines**
 
 ### 🔥 Contribution guidelines - how can the Dahmashi community get involved?
